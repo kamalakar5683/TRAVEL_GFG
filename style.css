@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.landing{
+    background-image: url(https://img.freepik.com/free-photo/full-shot-travel-concept-with-landmarks_23-2149153258.jpg?t=st=1734325568~exp=1734329168~hmac=34e0e5ee255deb14ba463b94cd840b411f50332f09f9dd8e696b90401d556683&w=1060);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    padding-top: 250px;
+
+}
+
+.landing h1{
+    color: white;
+    text-align: center;
+    font-size: 45px;
+   
+}
+
+.landing p{
+    color: rgb(11, 100, 63);
+    text-align: center;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button{
+    margin-top: 10px;
+    margin-left: 45%;
+    height: 35px ;
+    width: 110px;
+    cursor: pointer;
+    border-radius: 25px;
+    background-color: rgb(210, 214, 230);
+
+}
